@@ -2,3 +2,4 @@ Eu vou escrever as informações do primeiro commit!
 
 Fazendo a primeira alteração para praticar o git diff
 
+Alteração feito pelo GitHub!
